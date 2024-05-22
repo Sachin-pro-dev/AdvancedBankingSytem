@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
@@ -1639,3 +1640,7 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# AdvancedBankingSytem
+AdvancedBankingSystem is a modern web app for seamless online banking. Built with Next.js, TypeScript, Appwrite, Dwolla, and Serenity. Features Next.js: Optimized performance TypeScript: Type safety Appwrite: User authentication Dwolla: ACH payments Serenity: Comprehensive testing
+>>>>>>> ef69d4f795d44c02f7109095a1e485fcacc73e1c
